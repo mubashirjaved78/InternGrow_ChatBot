@@ -22,7 +22,7 @@ import random
 import os
 from datetime import datetime
 
-from QA_dataset import QA_DATABASE
+from qa_dataset import QA_DATABASE
 from wiki_scraper import get_wikipedia_summary
 
 try:
