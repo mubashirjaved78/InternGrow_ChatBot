@@ -1,0 +1,22 @@
+ <!-- Byte-compiled / cache -->
+__pycache__/
+.py[cod]
+py.class
+
+ <!-- Virtual environments -->
+venv/
+env/
+.venv/
+
+ <!-- VS Code -->
+.vscode/
+
+ <!-- OS files -->
+.DS_Store
+Thumbs.db
+
+ <!-- Logs -->
+.log
+
+ <!-- Exported chat files (user-generated, not part of source) -->
+Aria_Chat_.txt
